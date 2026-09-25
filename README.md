@@ -58,3 +58,7 @@ Total Bill = (Ward Rate × Stay Duration) + Medicine Cost
 - Case-insensitive disease search
 - Database integration (MySQL)
 - GUI or web interface
+
+## Hello
+
+thank you :D
